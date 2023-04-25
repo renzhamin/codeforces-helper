@@ -10,6 +10,10 @@
 -   Sometimes you may need to press 's' twice, first to focus the page then submit
 -   The button doesn't has to be 's' it can be changed by using the `submitKey` variable
 
+## Demo
+
+https://user-images.githubusercontent.com/57265942/234389845-1e2643c4-577a-416c-b8d3-5c61633520f2.mp4
+
 # Looking at others submission
 
 -   Pressing 'g' on the problem page will take you to the all submission page (status page)
