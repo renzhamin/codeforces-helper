@@ -1,7 +1,7 @@
 # How to install
 
 1. Install Tampermonkey for your browser. ([Instructions](https://tampermonkey.net/))
-2. [**Click this link**](https://github.com/renzhamin/codeforces-helper/raw/main/cf-helper.user.js) to install cf-helper userscript
+2. [**Click this link**](https://github.com/renzhamin/codeforces-helper/raw/main/main.user.js) to install this userscript
 
 # Easy submission
 

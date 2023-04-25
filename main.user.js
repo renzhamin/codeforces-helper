@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         cf-helper
+// @name         codeforces-helper
 // @author       renzhamin
 // @version      0.01
 // @description  Reduce codeforces navigation time
