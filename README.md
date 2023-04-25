@@ -7,6 +7,7 @@
 
 -   Pressing 's' in problem statement page will take you to the submit page and the problem number will be automatically selected
 -   Pressing 's' again will copy the content from your clipboard to the source code area and automatically click the submit button.
+-   Sometimes you may need to press 's' twice, first to focus the page then submit
 -   The button doesn't has to be 's' it can be changed by using the `submitKey` variable
 
 # Looking at others submission
